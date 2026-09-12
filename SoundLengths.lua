@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_Midnight = {
+SpeakStoneSoundLengths_Pack_Midnight = {
     ["57319_description.ogg"] = 18.20,
     ["79988_description.ogg"] = 12.95,
     ["84442_completion.ogg"] = 4.93,
