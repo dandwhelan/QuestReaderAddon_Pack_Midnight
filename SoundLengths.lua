@@ -627,7 +627,6 @@ QuestReaderSoundLengths_Pack_Midnight = {
     ["88930_completion.ogg"] = 4.47,
     ["88930_description.ogg"] = 14.01,
     ["88930_progress.ogg"] = 0.95,
-    ["88931_description.ogg"] = 7.10,
     ["88932_description.ogg"] = 24.42,
     ["88937_completion.ogg"] = 2.90,
     ["88937_description.ogg"] = 20.60,
