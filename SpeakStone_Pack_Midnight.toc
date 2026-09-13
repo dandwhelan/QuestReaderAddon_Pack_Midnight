@@ -1,5 +1,6 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
+## X-Wago-ID: QKy9kEK7
 ## Title: SpeakStone Narration - Midnight Voices
 ## Notes: Midnight quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: clhammer weirdautomation@gmail.com, Paratus
